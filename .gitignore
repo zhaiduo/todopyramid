@@ -1,2 +1,7 @@
 todopyramid.sqlite
 .coverage
+
+venv
+*.pyc
+*.egg-info
+
